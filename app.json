@@ -1,9 +1,9 @@
 {
-  "name": "ALI-MD",
-  "description": "Javascript WhatsApp bot made by ali",
-  "logo": "https://files.catbox.moe/6ku0eo.jpg",
-  "keywords": ["ALI-MD"],
-  "success_url": "/",
+  "name": "CLINSHADOW-XMD",
+  "description": "Javascript WhatsApp bot made by CLINSHADOW",
+  "logo": "https://files.fm/u/c6dcjcnmpz",
+  "keywords": ["SHADOW"],
+  "success_url": "https://files.fm/u/gy7g2cv5nx/",
 
     "stack": "container",
   "env": {
@@ -14,7 +14,7 @@
     },  
     
     "ANTI_CALL": {
-       "description": "Make it true if you want bot auto call rejected.",
+       "description": "PLEASE TEXT ME WILL REPLY",
        "required": false,
        "value": "true"
        
@@ -91,21 +91,21 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS JUST NOW ALI-MD 🍒*"
+      "value": "*SEEN YOUR STATUS JUST NOW  SHADOW TECH🍒*"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𓆩ု᪳𝐀ɭīī 𝐌Ɗှ᪳𓆪"
+      "value": "CLINSHADOW TECH"
 
       }, 
     
     "ALIVE_IMG": {
       "description": "put here the bot Menu url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://files.catbox.moe/6ku0eo.jpg" 
+      "value": "https://files.fm/u/gy7g2cv5nx" 
       },
 
     "DELETE_LINK": {
