@@ -25,9 +25,9 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://files.catbox.moe/6ku0eo.jpg'/></a>
+<a><img src='https://media-hosting.imagekit.io/d65ae8b2e4f94eca/8333-514Y.jpg?Expires=1840208082&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=f0Nmr6WSjJHjIIr9K9okaB0RV7DKQ5Z-SH2asbhpR9xkYsXKCbnyu0fHatCIRjTqg47zT58cyZuP7mcRFV1YxI06CSP5~gxUhND4-bRiyvPGsDQkg-Yd58GwkDdXPLCCdfGDLKQ7QJmtgq8hJnaFC8KyzbrT3qnme4gpCq9k0iDiLLiptzUOEtyGmSxMeM24nUw8q3yIqCIoYCTaslstlzie3Oj4NWHmptGxPZtJaeud~ebUjA-rFsTOG45tE7jDebh2X1LnUJDC8ElPrHKaR9utZ~Vyov9IJ2a5EFFX1jnqmxdPmWFCo-x-~qKfwudM0NKIHBSvo4CX0Ypte2txAQ__'/></a>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://media-hosting.imagekit.io/d65ae8b2e4f94eca/8333-514Y.jpg?Expires=1840208082&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=f0Nmr6WSjJHjIIr9K9okaB0RV7DKQ5Z-SH2asbhpR9xkYsXKCbnyu0fHatCIRjTqg47zT58cyZuP7mcRFV1YxI06CSP5~gxUhND4-bRiyvPGsDQkg-Yd58GwkDdXPLCCdfGDLKQ7QJmtgq8hJnaFC8KyzbrT3qnme4gpCq9k0iDiLLiptzUOEtyGmSxMeM24nUw8q3yIqCIoYCTaslstlzie3Oj4NWHmptGxPZtJaeud~ebUjA-rFsTOG45tE7jDebh2X1LnUJDC8ElPrHKaR9utZ~Vyov9IJ2a5EFFX1jnqmxdPmWFCo-x-~qKfwudM0NKIHBSvo4CX0Ypte2txAQ__'/></a>
 
 ***
 
@@ -47,14 +47,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **1. PAIR CODE SESSION ID**
 
-<a href='https://ali-md.onrender.com/' target="_blank">
+<a href='https://shadow-md.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://ali-md-72003ad89817.herokuapp.com' target="_blank">
+<a href='https://shadow-md-72003ad89817.herokuapp.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
@@ -63,7 +63,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁ALI-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">SHADOW-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -72,7 +72,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/itx-alii-raza/ALI-MD)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://media-hosting.imagekit.io/d65ae8b2e4f94eca/8333-514Y.jpg?Expires=1840208082&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=f0Nmr6WSjJHjIIr9K9okaB0RV7DKQ5Z-SH2asbhpR9xkYsXKCbnyu0fHatCIRjTqg47zT58cyZuP7mcRFV1YxI06CSP5~gxUhND4-bRiyvPGsDQkg-Yd58GwkDdXPLCCdfGDLKQ7QJmtgq8hJnaFC8KyzbrT3qnme4gpCq9k0iDiLLiptzUOEtyGmSxMeM24nUw8q3yIqCIoYCTaslstlzie3Oj4NWHmptGxPZtJaeud~ebUjA-rFsTOG45tE7jDebh2X1LnUJDC8ElPrHKaR9utZ~Vyov9IJ2a5EFFX1jnqmxdPmWFCo-x-~qKfwudM0NKIHBSvo4CX0Ypte2txAQ__'/></a>
 
 ### <h4 align="">3. KOYEB</h4>
 <p style="text-align: center; font-size: 1.2em;">
@@ -143,7 +143,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > CREDITS PIKABOTZ🎐
 
-*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ꜰʀᴀɴᴋ ᴏꜰᴄ*</h6>
+*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ SHADOW*</h6>
 
 </details>
 
@@ -155,26 +155,26 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 <p align="">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-1976D2?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src=''/></a>
 
 
 ## 👑 PROJECT OWNER 
-HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME ALI࿐➺
+HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME CLINSHADOW TECH
 
 <p align="">
-<a href='https://wa.me/+923003588997?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a href='https://wa.me/+254718944098?text=*ʜɪɪ+ᴀʟɪ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ᴀʟɪ-ᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/></a> </a>
+<a><img src=''/></a>
 
 
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaoRxGmJpe8lgCqT1T2h)
+[![WhatsApp Channel](https://chat.whatsapp.com/Haw49Qt2eYbGrwNAs3Toi7)]()
 
 ## 🪀 WHATSAPP GROUP
 JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Lx7sDv7jSy0CCTm5AliPdq)
+[![WhatsApp Group](https://chat.whatsapp.com/Haw49Qt2eYbGrwNAs3Toi7)]()
 
  
 
@@ -208,9 +208,9 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 <br>
 
 ```
-THANK YOU TOHID, JAWAD, KERM & YOU SUPPORTERS
+THANK YOU FOR CHOOSING CLINSHADOW TECH
 ```
 -----
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='![8333-514Y.jpg](<https://media-hosting.imagekit.io/d65ae8b2e4f94eca/8333-514Y.jpg?Expires=1840208082&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=f0Nmr6WSjJHjIIr9K9okaB0RV7DKQ5Z-SH2asbhpR9xkYsXKCbnyu0fHatCIRjTqg47zT58cyZuP7mcRFV1YxI06CSP5~gxUhND4-bRiyvPGsDQkg-Yd58GwkDdXPLCCdfGDLKQ7QJmtgq8hJnaFC8KyzbrT3qnme4gpCq9k0iDiLLiptzUOEtyGmSxMeM24nUw8q3yIqCIoYCTaslstlzie3Oj4NWHmptGxPZtJaeud~ebUjA-rFsTOG45tE7jDebh2X1LnUJDC8ElPrHKaR9utZ~Vyov9IJ2a5EFFX1jnqmxdPmWFCo-x-~qKfwudM0NKIHBSvo4CX0Ypte2txAQ__>)'/></a>
 
 ------
